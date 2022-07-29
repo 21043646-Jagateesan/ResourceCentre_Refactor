@@ -2,7 +2,9 @@ import java.util.ArrayList;
 // update by jaga
 public class ResourceCentre {
 
-// demo hi
+
+// demo hi=======
+// Demo Ci/CD by Amani
 	private static final int OPTION_RETURN = 4;
 	private static final int OPTION_LOAN = 3;
 	private static final int OPTION_ADD = 2;
